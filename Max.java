@@ -14,7 +14,6 @@ public class Max {
                 max = currentNumber;
             }
         }
-
         System.out.println("The maximum number is: " + max);
     }
 }
